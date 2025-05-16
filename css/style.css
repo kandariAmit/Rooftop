@@ -551,3 +551,9 @@ h6,
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+/* custom css */
+
+.navbar-brand img{
+    max-width: 75px;
+}
